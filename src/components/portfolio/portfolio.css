@@ -1,0 +1,15 @@
+.portfolio a{
+    text-decoration: none;
+}
+section.portfolio h1{
+    font-size: 60px;
+}
+section.portfolio .cards{
+    height: 300px;
+}
+
+section.portfolio .cards div{
+    height: 5px;
+    width: 40%;
+}
+

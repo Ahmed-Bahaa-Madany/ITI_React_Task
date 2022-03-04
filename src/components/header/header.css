@@ -1,0 +1,17 @@
+.header a{
+    text-decoration: none;
+  }
+section.bg-image{
+    background-image: url(../../assets/cv.jpg);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .header h1{
+    font-size: 50px;
+  }
+  .header p{
+    font-size: 40px;
+  }
+  
